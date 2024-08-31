@@ -29,12 +29,12 @@ To run this project, you need the following Python libraries:
      `python ai_virtual_mouse.py`
 4. Camera Access: Ensure that your webcam is functional and accessible by the script.
 5. Use Hand Gestures: Use the following gestures to control the mouse and volume:
-- *Move Mouse*: Move your hand to control the cursor.
-- *Left Click*: Bring the thumb and index finger together.
-- *Right Click*: Raise the index finger while the middle finger is lowered.
-- *Adjust Volume*: Change the volume by varying the distance between the thumb and middle finger.
-- *Set Specific Volume*: Raise the thumb, index, and middle fingers to set a specific volume level.
-- *Scroll*: Move the hand to the top or bottom of the camera view to scroll up or down.
+      - *Move Mouse*: Move your hand to control the cursor.
+      - *Left Click*: Bring the thumb and index finger together.
+      - *Right Click*: Raise the index finger while the middle finger is lowered.
+      - *Adjust Volume*: Change the volume by varying the distance between the thumb and middle finger.
+      - *Set Specific Volume*: Raise the thumb, index, and middle fingers to set a specific volume level.
+      - *Scroll*: Move the hand to the top or bottom of the camera view to scroll up or down.
 
 ## Customization
 
