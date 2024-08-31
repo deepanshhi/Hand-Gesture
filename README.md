@@ -1,15 +1,15 @@
-# AI-Powered Virtual Mouse
+# AI-Powered Virtual Mouse ![](https://img.shields.io/badge/python-3.8.6-blue.svg)
 
 This project is an AI-powered virtual mouse that allows users to control their computer's mouse and volume using hand gestures. The project utilizes Python's OpenCV for video capture, MediaPipe for hand tracking, and Pycaw for audio control. The hand gestures can perform various actions, such as moving the mouse, clicking, scrolling, and adjusting the volume.
 
 ## Features
 
-- **Mouse Movement**: Control the mouse cursor by moving your hand in front of the camera.
+- **Mouse Movement**: Control the mouse cursor by moving your index finger and middle finger together in front of the camera.
 - **Left Click Gesture**: Perform a left-click by bringing the thumb and index finger close together.
 - **Right Click Gesture**: Perform a right-click by raising the index finger while the middle finger is lowered.
 - **Volume Control**: Adjust the system volume based on the distance between the thumb and middle finger.
 - **Volume Set Gesture**: Set the volume to a specific level by raising the index, middle, and thumb fingers.
-- **Scrolling**: Scroll up or down by moving the hand to the top or bottom part of the camera view.
+- **Scrolling**: Scroll up or down by moving the hand to the top third or bottom third part of the camera view.
 
 ## Installation
 
